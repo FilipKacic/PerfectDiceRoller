@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1704138248 source:c:\users\vodoriga\desktop\perfectdiceroller\src\perfectsolid.cpp
+	"PerfectSolid.h"
+
+1704138237 c:\users\vodoriga\desktop\perfectdiceroller\include\perfectsolid.h
+
+1704142262 source:c:\users\vodoriga\desktop\perfectdiceroller\main.cpp
+	<iostream>
+	<random>
+	<limits>
+	<cstdlib>
+	"PerfectSolid.h"
+
